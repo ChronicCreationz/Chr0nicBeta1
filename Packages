@@ -1,13 +1,27 @@
-Package: com.Chr0nic.inapp
+Package: com.Chr0nic.GoodByeDock
 Version: 1.0~beta1a
 Architecture: iphoneos-arm
 Maintainer: Chr0nicCreationz <ptcaphid@gmail.com@com>
 Filename: /GoodByeDock1.0~beta1a.deb
 Size: 9,702
-MD5sum: 758B68A19A92F5BD0973E3F030F15E89
-SHA1: 7F51DACBDFA12ED163BBFC29D598071EF827AC37
-SHA256: D873CB3D925C920D4F2E9802F26FAB2FBCC4054252C35EBF89E4B5C110757B75
+MD5sum: 2999BD923DF35D23D06C95A64B8079D0
+SHA1: 9BC93A2057B47BB8D79D07BD2AE9CF21E2EA80D9
+SHA256: DFE0ADF5983204F9F92308CCC28D5A7EA8ABFBED3486AEE3B17AAB444D5D1B9C
 Section: Tweaks
 Description: Remove The Dock
 Author: Chr0nicCreationz (ptcaphid@gmail.com)
 Name: GoodByeDock
+
+Package: com.Chr0nic.inapp
+Version: 1.0~beta1a
+Architecture: iphoneos-arm
+Maintainer: Chr0nicCreationz W/ Casp
+Filename: /ThankYouFree.0~beta1a.deb
+Size: 4,080
+MD5sum: 758B68A19A92F5BD0973E3F030F15E89
+SHA1: 7F51DACBDFA12ED163BBFC29D598071EF827AC37
+SHA256: D873CB3D925C920D4F2E9802F26FAB2FBCC4054252C35EBF89E4B5C110757B75
+Section: Tweaks
+Description: Get Free In App Purchases.
+Author: Chr0nicCreationz W/ Casp
+Name: ThankYouFree
